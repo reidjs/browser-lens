@@ -1,0 +1,7 @@
+.env
+venv/
+page.html
+page.md
+page.txt
+url.txt
+.DS_Store
